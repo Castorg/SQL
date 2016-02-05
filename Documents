@@ -1,3 +1,4 @@
+ALTER SESSION SET current_schema = EDMATTER_ROOM00;
 --------------------------------
 SELECT *
 FROM EDMATTER_ROOM00.DOCUMENTS
